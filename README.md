@@ -1,1 +1,1 @@
-This repository contains code from various courses relating to data analytics
+This repository contains code from various courses relating to data analytics and machine learning
